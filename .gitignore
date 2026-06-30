@@ -1,0 +1,24 @@
+# Java
+*.class
+
+# Build folders
+out/
+bin/
+target/
+
+# Logs
+logs/
+*.log
+
+# IDE
+
+# LDAP Config
+ldap.properties
+
+# Data Files
+employee-sample.csv
+*.xlsx
+
+# OS Files
+.DS_Store
+Thumbs.db
